@@ -118,7 +118,7 @@ Không sử dụng cơ sở dữ liệu, đảm bảo ứng dụng nhẹ và d�
 
 Đảm bảo cả hai lệnh đều hiển thị phiên bản Java 8 trở lên.
 
-2. **Tải mã nguồn**: Sao chép thư mục `Client1` chứa các file:
+2. **Tải mã nguồn**: Sao chép thư mục `udpWarning` chứa các file:
 - `Server.java`
 - `Client.java`
 - `LogViewerDialog.java`
@@ -178,9 +178,9 @@ java -cp target/classes udpWarning.Client
 - Client ID duy nhất được hiển thị trong status panel
 
 ## 📚 5. Thông tin liên hệ
-Họ tên: [Tên của bạn].  
-Lớp: [Lớp của bạn].  
-Email: [Email của bạn]
+Họ tên: Võ Vĩnh Thái.  
+Lớp: CNTT 16-01.  
+Email: vovinhthai2004@gmail.com
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
