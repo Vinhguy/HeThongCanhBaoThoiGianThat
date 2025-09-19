@@ -1,6 +1,6 @@
 <h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
-    �� Faculty of Information Technology (DaiNam University)
+    🎓  FACULTY OF INFORMATION TECHNOLOGY (DAINAM UNIVERSITY)
     </a>
 </h2>
 <h2 align="center">
@@ -30,7 +30,7 @@ Hệ thống cảnh báo thời gian thực sử dụng giao thức UDP cho phé
 
 Các chức năng chính:
 
-**��️ Chức năng của Server:**  
+**🖥 Chức năng của Server:**  
 
 - Gửi cảnh báo tùy chỉnh: Cho phép nhập nội dung cảnh báo và chọn mức độ (INFO, WARNING, CRITICAL) để gửi đến tất cả client.  
 - Quản lý kết nối: Theo dõi số lượng client đã kết nối và xử lý các thông báo JOIN/LEAVE từ client.  
@@ -56,7 +56,7 @@ Các chức năng chính:
 
 
 
-## �� 2. Công nghệ sử dụng
+## 🛠️ 2. Công nghệ sử dụng
 
 
 
