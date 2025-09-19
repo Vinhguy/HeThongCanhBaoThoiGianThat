@@ -91,7 +91,7 @@ Không sử dụng cơ sở dữ liệu, đảm bảo ứng dụng nhẹ và d�
 ## 🚀 3. Hình ảnh các chức năng
 
 ### Giao diện Server
-<img width="919" height="634" alt="image" src="https://github.com/user-attachments/assets/e1fbddb6-22a9-4ecc-a8df-38200e234ed3" />
+<img width="871" height="827" alt="image" src="https://github.com/user-attachments/assets/9a61a563-2779-465a-9e1f-02507db9de27" />
 
 ### Giao diện Client 
 <img width="786" height="541" alt="image" src="https://github.com/user-attachments/assets/5e552ba7-d226-43ab-bfb0-af3c4f6d2c54" />
