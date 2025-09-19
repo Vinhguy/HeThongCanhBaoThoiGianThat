@@ -90,35 +90,7 @@ Không sử dụng cơ sở dữ liệu, đảm bảo ứng dụng nhẹ và d�
 
 ## 🚀 3. Hình ảnh các chức năng
 
-<p align="center">
-  <img src="images/server_interface.jpg" alt="Ảnh 1" width="800"/>
-</p>
 
-<p align="center">
-  <em> Hình 1: Giao diện Server với gradient header, control panel và activity log </em>
-</p>
-
-<p align="center">
-  <img src="images/client_interface.jpg" alt="Ảnh 2" width="700"/>
-</p>
-<p align="center">
-  <em> Hình 2: Giao diện Client hiển thị trạng thái kết nối và activity log </em>
-</p>
-
-
-<p align="center">
-  <img src="images/alert_popup.jpg" alt="Ảnh 3" width="450"/>
-</p>
-<p align="center">
-  <em> Hình 3: Popup cảnh báo với gradient header và styled button </em>
-</p>
-
-<p align="center">
-  <img src="images/log_viewer.jpg" alt="Ảnh 4" width="700"/>
-</p>
-<p align="center">
-  <em> Hình 4: Log Viewer với bảng hiển thị chi tiết và chức năng export </em>
-</p>
 
 
 ## 📝 4. Hướng dẫn cài đặt và sử dụng
