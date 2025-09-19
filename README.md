@@ -90,6 +90,14 @@ Không sử dụng cơ sở dữ liệu, đảm bảo ứng dụng nhẹ và d�
 
 ## 🚀 3. Hình ảnh các chức năng
 
+### Giao diện Server
+<img width="919" height="634" alt="image" src="https://github.com/user-attachments/assets/e1fbddb6-22a9-4ecc-a8df-38200e234ed3" />
+
+### Giao diện Client 
+<img width="786" height="541" alt="image" src="https://github.com/user-attachments/assets/5e552ba7-d226-43ab-bfb0-af3c4f6d2c54" />
+
+### Giao diện màn hình Log
+<img width="1099" height="796" alt="image" src="https://github.com/user-attachments/assets/af8083b3-4837-4f7a-a480-83efad28070e" />
 
 
 
@@ -103,7 +111,6 @@ Không sử dụng cơ sở dữ liệu, đảm bảo ứng dụng nhẹ và d�
 - **Bộ nhớ**: Tối thiểu 512MB RAM
 - **Dung lượng**: Khoảng 5MB cho mã nguồn và file thực thi
 - **Mạng**: Hỗ trợ UDP multicast (230.0.0.0:4446)
-
 
 
 
